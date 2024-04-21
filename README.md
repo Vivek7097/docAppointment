@@ -16,7 +16,8 @@
     https://appointmentbookinf.netlify.app/.netlify/functions/api//doctors
     You need to previde details like :- Nothing
   <img width="960" alt="3" src="https://github.com/Vivek7097/docAppointment/assets/109316479/349158cc-96c1-4784-848f-15f217d48b7f">
-### <ol> For Booking Appointment:- 
+  
+ ### <ol> For Booking Appointment:- 
     https://appointmentbookinf.netlify.app/.netlify/functions/api/appointments
     You need to previde details like :- Dr.name, Patient, Date
 <img width="960" alt="4" src="https://github.com/Vivek7097/docAppointment/assets/109316479/7bae3f32-2b73-4c22-86ae-8fafdc743cfd">
